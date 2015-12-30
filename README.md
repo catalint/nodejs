@@ -39,5 +39,7 @@ Other remarks
 * Never use `global.`
 * Never set/modify `process.env`
 
-
+Other ideas to look into
+--------------------
+* https://github.com/gergoerdosi/nesive-hapi-json-view
 
