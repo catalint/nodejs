@@ -8,10 +8,13 @@ https://www.npmjs.com/package/hapi-swagger
 
 https://github.com/airbnb/javascript
 
-npm shrinkwrap
+http://www.themarketingtechnologist.co/how-to-get-airbnbs-javascript-code-style-working-in-webstorm/
 
-hapi
+https://docs.npmjs.com/cli/shrinkwrap
 
-babel?
+http://hapijs.com/
 
-zenhub
+https://babeljs.io/docs/usage/require/
+
+https://www.npmjs.com/package/eslint
+
